@@ -1,6 +1,6 @@
-It is a college student management dashboard which includes list od all students inlcuding name,class, phone no. etc.  and edit, delete and add students can be performed ,Along with this, Notification of upcoming events and attendance status of each student.
+#It is a college student management dashboard which includes list od all students inlcuding name,class, phone no. etc.  and edit, delete and add students can be performed ,Along with this, Notification of upcoming events and attendance status of each student.
 
-# use json-server for running it  writing command 'json-server --watch students.json --port 'port-number'' and then urls will be generated for routing to each page , make sure to change the port-number in 'rest-api.ts' file in /app/shared/rest-api.ts , change port-number in variable decalred 'api-url' according to port-number given in json-server command mentioned above.
+## use json-server for running it  writing command 'json-server --watch students.json --port 'port-number'' and then urls will be generated for routing to each page , make sure to change the port-number in 'rest-api.ts' file in /app/shared/rest-api.ts , change port-number in variable decalred 'api-url' according to port-number given in json-server command mentioned above.
 
 # Apache
 
