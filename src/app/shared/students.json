@@ -1,0 +1,123 @@
+{
+  "students": [
+    {
+      "name": "Amit Kumar",
+      "email": "amitkum2@gmail.com",
+      "phone": "9799916522",
+      "id": 1,
+      "attendance": "absent",
+      "class": "CE1B"
+    },
+    {
+      "name": "Manish Agarwal ",
+      "email": "manish1902@gmail.com",
+      "phone": "9799890822",
+      "id": 2,
+      "attendance": "present",
+      "class": "EE1A"
+    },
+    {
+      "name": "Anjali PAliwal",
+      "email": "anjalipaliwal25@gmail.com",
+      "phone": "9799816522",
+      "id": 3,
+      "attendance": "present",
+      "class": "CSE1A"
+    },
+    {
+      "name": "Asha",
+      "email": "Ash.pali@gmail.com",
+      "phone": "9413330891",
+      "id": 4,
+      "attendance": "present",
+      "class": "CSE1A"
+    },
+    {
+      "name": "MAyra Joshi",
+      "email": "Mayra@think201.com",
+      "phone": "568920283",
+      "id": 5,
+        "attendance": "present",
+        "class": "CSE1B"
+    },
+    {
+      "name": "Mayur Keshav",
+      "email": "Mayura@yahoo.com",
+      "phone": "5689290283",
+      "id": 6,
+        "attendance": "absent",
+        "class": "CE1B"
+    },
+    {
+      "name": "Keshav Bose",
+      "email": "Keshavbose_3@gmail.com",
+      "phone": "568920290",
+      "id": 7,
+        "attendance": "present",
+        "class": "ME1B"
+    },
+    {
+      "name": "Arihant Jain",
+      "email": "Arihant_jain@gmail.com",
+      "phone": "818920283",
+      "id": 8,
+        "attendance": "present",
+        "class": "CHE1B"
+    },
+    {
+      "name": "Sakshi Mishra",
+      "email": "Sakshi_mish@yahoo.com",
+      "phone": "568890283",
+      "id": 9,
+        "attendance": "present",
+        "class": "CSE1B"
+    },
+    {
+      "name": "Ahir Jaykar",
+      "email": "Ahir_j@gmail.com",
+      "phone": "6892028315",
+      "id": 10,
+        "attendance": "absent",
+        "class": "CSE1B"
+    },
+    {
+      "name": "Ravi Sharma",
+      "email": "Ravi_sharma21@yahoo.in",
+      "phone": "841369025",
+      "id": 11,
+        "attendance": "absent",
+        "class": "ME1B"
+    }
+  ],
+  "notifications":[{
+    "event_name": "Coding competition",
+    "event_Venue": "At Amphiteatre IET",
+    "event_time": "7:30pm",
+    "event_subtitle": "Funcoding activity including real world problems"
+  },
+  {
+    "event_name": "Coding competition",
+    "event_Venue": "At Amphiteatre IET",
+    "event_time": "7:30pm",
+    "event_subtitle": "Funcoding activity including real world problems"
+  },
+  {
+    "event_name": "Coding competition",
+    "event_Venue": "At Amphiteatre IET",
+    "event_time": "7:30pm",
+    "event_subtitle": "Funcoding activity including real world problems"
+  },
+  {
+    "event_name": "Coding competition",
+    "event_Venue": "At Amphiteatre IET",
+    "event_time": "7:30pm",
+    "event_subtitle": "Funcoding activity including real world problems"
+  },
+  {
+    "event_name": "Coding competition",
+    "event_Venue": "At Amphiteatre IET",
+    "event_time": "7:30pm",
+    "event_subtitle": "Funcoding activity including real world problems"
+  }]
+
+}

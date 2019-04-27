@@ -1,0 +1,11 @@
+<div >
+  
+  <div class="card">
+    <div class="card-body" *ngFor="let noti of Notification">
+      <h5 class="card-title">{{noti.event_name}}</h5>
+      <h6 class="card-subtitle mb-2 text-muted">{{noti.event_subtitle}}</h6>
+      <h5 class="card-title-time">{{noti.event_time}}</h5>
+      <p class="card-text">{{noti.event_Venue}}</p>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,23 @@
+.tr {
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px
+}   
+.title  {
+   color: #666
+}
+.name {
+    color: #444;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 20px
+}
+.status {
+    color:  #6593F5;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 20px
+}

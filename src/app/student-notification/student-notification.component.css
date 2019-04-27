@@ -1,0 +1,18 @@
+.card {
+    margin: 20px;
+    padding: 20px
+}
+.card-body {
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+}
+.card-title {
+    color : #7285A5
+}
+.card-title-time {
+    color: #CB5C0D
+}
+.card-subtitle {
+    font-family: 'Nunito', sans-serif;
+}
